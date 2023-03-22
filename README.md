@@ -8,7 +8,6 @@ Tutorial: [Click](https://www.youtube.com/watch?v=CZaSYmrYRdo) (in Russian)
 # ⚡ Features
 - [x] Works on all versions (*-1.20)
 - [x] Works on all launchers (Lunar, Salwayyr, TL, *)
-- [x] Rainbow Watermark (You can turn it off)
 - [x] Telegram API Support
 
 # ❓ How to install?
